@@ -62,6 +62,8 @@ __Always link to the latest version of the file__ - If this option is selected, 
 
 __Remember subject and custom message for next time__ - If this option is selected, the subject and message that you have entered for this email will be remembered the next time that you send an email. This is particularly useful if you're going to be consistently sending the same email to multiple different users.
 
+__NOTE__ - If you require emails to be sent from the user account email address rather than from Sharefile, this can be enabled on a per account basis. If you require emails to be sent via a customers own Mail Server rather than Sharefile's Mail Servers this can also ben enabled on a per account basis.
+
 The next thing to go through is __Get a Link__.
 
 If you click __Get a Link__, you can share a file by creating a specific URL link which users will be able to access. Upon clicking this, you'll see the following screen.
